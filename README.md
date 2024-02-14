@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdullah.
 - 👀 I’m interested in Data Science and Artificial Intelligence.
 - 🌱 I’m currently studying BSCS
-- 🌱 I’m currently having fun with Git
+- 🌱 I’m also learning Git
 - 📫 How to reach me: abdullahm111214@gmail.com
 
 <!---
