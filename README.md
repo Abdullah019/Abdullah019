@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdullah.
-- 👀 I’m interested in Data Science and Artificial Intelligence.
-- 🌱 I’m currently studying Computer Science
+- 👀 I’m interested in How Computers work and creating cool applications for them.
+- 🌱 I’m currently Looking for a Job in software devlopment, Low Level Programming - Web Dev
 - 📫 How to reach me: abdullahm111214@gmail.com
 
 <!---
